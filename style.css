@@ -67,3 +67,42 @@ footer {
     text-align: center;
     padding: 15px;
 }
+/* CONTACT SECTION */
+.contact {
+    padding: 50px;
+    text-align: center;
+    background: #f9f9f9;
+}
+
+.contact h2 {
+    margin-bottom: 20px;
+}
+
+.contact form {
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact input,
+.contact textarea {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.contact textarea {
+    height: 120px;
+}
+
+.contact button {
+    padding: 12px;
+    border: none;
+    background: #4facfe;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
