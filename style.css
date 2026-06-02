@@ -50,7 +50,7 @@ nav a {
     background: radial-gradient(circle at center, #ff8a00, #e52e71);
     color: white;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: left;
     align-items: center;
     text-align: center;
