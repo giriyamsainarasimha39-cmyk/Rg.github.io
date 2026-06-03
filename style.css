@@ -21,7 +21,7 @@ nav a {
 
 /* HERO */
 .hero {
-    height: 70vh;
+    height: 40vh;
     background: radial-gradient(circle at center, #ff8a00, #e52e71);
     color: white;
     display: flex;
@@ -46,7 +46,7 @@ nav a {
 }
 /* HER */
 .her {
-    height: 50vh;
+    height: 40vh;
     background: radial-gradient(circle at center, #ff8a00, #e52e71);
     color: white;
     display: flex;
