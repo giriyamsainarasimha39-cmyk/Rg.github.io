@@ -15,6 +15,7 @@ body {
 body {
   background: #f5f7fb;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
